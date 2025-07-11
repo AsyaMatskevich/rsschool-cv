@@ -1,11 +1,38 @@
-Анастасия Мацкевич
-asya.frontend@gmail.com
-+375333996044
-Работала библиотекарем-библиографом, а также специалистом по обработке данных в ИТ-организации. Ответственный работник, легко обучаюсь новому. Внимательна к деталям, усидчивая. Коммуникабельная, хорошо работаю как в команде, так и в одиночку. Постоянно повышаю квалификацию.
-Понимаю структуру web-приложений (HTML, CSS). Владею теорией и практикой тестирования.
-Пример кода:
+# **Anastasiya Matskevich**
+## Front-end developer
+*asya.frontend@gmail.com* 
 
-В ходе обучения на тестировщика проходила стажировку на реальном проекте, работала в команде.
-2023 - Основы тестирования ПО, школа тестирования QALearning.
-2025 - JS/Frontend-разработка. Подготовительный этап (в процессе).
-Владею английским языком на уровне Intermediate.
+*+375333996044*
+***
+
+
+
+**Soft skills:**
+* a responsible employee 
+* learn new things easily 
+* attentive to details 
+* have a strong work ethic
+* sociable 
+* work well both in a team and on my own 
+* constantly improve my skills
+
+**Hard skills:**
+* understanding the structure of web applications (HTML, CSS)
+* knowledge of testing theory and practice
+
+
+**Job experience**
+* 2024 - data processing specialist in an IT organization
+* 2023 - tester internship on a real commercial project
+
+**Education**
+* 2025 - JS/Frontend, pre-course, RSSchool (in progress)
+* 2023 - Software Testing, QALearning Testing School (Certificate).
+
+**Languages**
+
+English - intermediate,
+
+Belarusian - native,
+
+Russian - native.
