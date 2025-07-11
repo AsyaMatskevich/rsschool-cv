@@ -1,3 +1,5 @@
+![avatar](./anime_avatar.png)
+
 # **Anastasiya Matskevich**
 ## Front-end developer
 *asya.frontend@gmail.com* 
