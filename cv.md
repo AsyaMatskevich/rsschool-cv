@@ -1,9 +1,9 @@
-![avatar](./anime_avatar.png)
+![avatar](./avatar.png)
 # **Anastasiya Matskevich**
 ## Front-end developer
 *asya.frontend@gmail.com* 
 
-*+375333996044*
+*+375333996060*
 ***
 
 
@@ -21,6 +21,12 @@
 * understanding the structure of web applications (HTML, CSS)
 * knowledge of testing theory and practice
 
+**Code Example:**
+```javascript
+function opposite(number) {
+  return -number;  
+}
+```
 
 **Job experience**
 * 2024 - data processing specialist in an IT organization
@@ -35,5 +41,6 @@
 English - intermediate,
 
 Belarusian - native,
+
 
 Russian - native.
