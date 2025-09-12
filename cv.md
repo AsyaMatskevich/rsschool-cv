@@ -21,7 +21,7 @@
 * understanding the structure of web applications (HTML, CSS)
 * knowledge of testing theory and practice
 
-**Code Example:**
+**Code Example**
 ```javascript
 function opposite(number) {
   return -number;  
@@ -33,7 +33,8 @@ function opposite(number) {
 * 2023 - tester internship on a real commercial project
 
 **Education**
-* 2025 - JS/Frontend, pre-course, RSSchool (in progress)
+* 2025 - JS/Frontend, stage 1, RSSchool (in progress).
+* 2025 - JS/Frontend, pre-course, RSSchool.
 * 2023 - Software Testing, QALearning Testing School (Certificate).
 
 **Languages**
@@ -44,3 +45,4 @@ Belarusian - native,
 
 
 Russian - native.
+
